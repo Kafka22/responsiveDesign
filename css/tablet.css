@@ -1,0 +1,13 @@
+.main-product-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: none;
+    grid-gap: 8px;
+}
+.tables-containers{
+    justify-content: center;
+}
+.plans-container-slider{
+    display: flex;
+    justify-content: center;
+}
